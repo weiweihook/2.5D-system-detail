@@ -87,7 +87,7 @@ The node temperatures predicted by fast thermal model are closely aligned with t
 
 
 ### Comparisons of reward, wirelength, temperature and runtime
-<img src="https://github.com/weiweihook/2.5D-system-detail/blob/main/results/table.png" width="800"/>
+<img src="https://github.com/weiweihook/2.5D-system-detail/blob/main/results/8case_table.png" width="800"/>
 
 ### Plots of reward, wirelength, temperatures on CPU-DRAM System
 <center>
